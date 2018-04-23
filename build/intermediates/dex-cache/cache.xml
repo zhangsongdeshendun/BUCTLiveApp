@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/zhangsong/Downloads/直播代码2/BearLiveApp/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="/Users/zhangsong/Downloads/直播代码2/BearLiveApp/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_b4a0ee406a5c4c60631ffeff92f5196b3d853aaa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhangsong/Downloads/直播代码2/BearLiveApp/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="/Users/zhangsong/Downloads/直播代码2/BearLiveApp/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.0.0_0578bb860c68c1058d32f9e829d2ae8271a02891.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhangsong/Downloads/直播代码2/BearLiveApp/app/build/intermediates/exploded-aar/com.tencent.ilivesdk/ilivesdk/1.3.3/jars/libs/tls_sdk.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2468d0b9bbf835e7fc6227f405af1ec9346ad609">
+        <dex dex="/Users/zhangsong/Downloads/直播代码2/BearLiveApp/app/build/intermediates/pre-dexed/debug/tls_sdk_eed345e291b0ef595eac66917f7322ebe977df90.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhangsong/Downloads/直播代码2/BearLiveApp/app/build/intermediates/exploded-aar/com.tencent.ilivesdk/ilivesdk/1.3.3/jars/libs/qalsdk.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1219e3546f31f4404c12447d6894088b76513eb3">
+        <dex dex="/Users/zhangsong/Downloads/直播代码2/BearLiveApp/app/build/intermediates/pre-dexed/debug/qalsdk_e29a66348b4f60971c38916a4cc22c6e75b0e512.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhangsong/Downloads/直播代码2/BearLiveApp/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="/Users/zhangsong/Downloads/直播代码2/BearLiveApp/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.0.0_140da17b66728c1f9744ac8188f6fbd23d474b92.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhangsong/Downloads/直播代码2/BearLiveApp/app/build/intermediates/exploded-aar/com.tencent.ilivesdk/ilivesdk/1.3.3/jars/libs/mobilepb.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="12db2628b7d6bcc9bb7632941f499bf860c503a4">
+        <dex dex="/Users/zhangsong/Downloads/直播代码2/BearLiveApp/app/build/intermediates/pre-dexed/debug/mobilepb_1aa4e569370f16e95e23d4b956d5ba461ce74234.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhangsong/Downloads/直播代码2/BearLiveApp/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5e497d60f0cb6ce87c458ac5420a46d0fed49bd0">
+        <dex dex="/Users/zhangsong/Downloads/直播代码2/BearLiveApp/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.0.0_8fc350d33abcb873aa070964c0de6252c0617c05.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhangsong/Downloads/直播代码2/BearLiveApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="/Users/zhangsong/Downloads/直播代码2/BearLiveApp/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.0.0_58543b0361d12735e405a257084c3fdd9d541af3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhangsong/Downloads/直播代码2/BearLiveApp/app/build/intermediates/exploded-aar/tyrant/heartlayout/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e6e995062674c0ee1f36a44e40d4cbd56bae308a">
+        <dex dex="/Users/zhangsong/Downloads/直播代码2/BearLiveApp/app/build/intermediates/pre-dexed/debug/tyrant-heartlayout-1.0.1_c8a2d6e485de03ee473184d70a797c5e5209a095.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhangsong/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/Users/zhangsong/Downloads/直播代码2/BearLiveApp/app/build/intermediates/pre-dexed/debug/okio-1.13.0_46e8662c3d61f6af9c7a4e3f8160ebfe233c6d94.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhangsong/Downloads/直播代码2/BearLiveApp/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="/Users/zhangsong/Downloads/直播代码2/BearLiveApp/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_8088aaa103a2c154d46d74dd2cc6ad877c97b0b9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhangsong/Downloads/直播代码2/BearLiveApp/app/build/intermediates/exploded-aar/com.tencent.livesdk/livesdk/1.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="614a7f2f31d33d0aab7d59e7baa83e0a00b7100f">
+        <dex dex="/Users/zhangsong/Downloads/直播代码2/BearLiveApp/app/build/intermediates/pre-dexed/debug/com.tencent.livesdk-livesdk-1.1.0_7f8c3e87d06b2c9f87aa452ba9f40101f3ef6635.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhangsong/Downloads/直播代码2/BearLiveApp/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="/Users/zhangsong/Downloads/直播代码2/BearLiveApp/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.0.0_ab3b452d72e27ff1ce4f36ac34870f2e7cffa285.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhangsong/Downloads/直播代码2/BearLiveApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/zhangsong/Downloads/直播代码2/BearLiveApp/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.0.0_6fd84cd11b788589c63b445a57f2bb2ef15ed86d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhangsong/Downloads/直播代码2/BearLiveApp/app/build/intermediates/exploded-aar/com.tencent.ilivesdk/ilivesdk/1.3.3/jars/libs/wup-1.0.0-SNAPSHOT.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="523e2a8215dfdb1ab79df5a3f1c3635d80e19f6b">
+        <dex dex="/Users/zhangsong/Downloads/直播代码2/BearLiveApp/app/build/intermediates/pre-dexed/debug/wup-1.0.0-SNAPSHOT_32e71e956632249049e0ec3e7360b1701e7d2bdd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhangsong/Downloads/直播代码2/BearLiveApp/app/build/intermediates/exploded-aar/com.tencent.ilivesdk/ilivesdk/1.3.3/jars/libs/beacon_android_v1.9.9.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="74d3325db5577bfc2151c8918ce7d89fbc77a65d">
+        <dex dex="/Users/zhangsong/Downloads/直播代码2/BearLiveApp/app/build/intermediates/pre-dexed/debug/beacon_android_v1.9.9_c1e1efeb73a43cf3eb9399a459b809b643a92a25.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhangsong/Downloads/直播代码2/BearLiveApp/app/build/intermediates/exploded-aar/com.tencent.ilivesdk/ilivesdk/1.3.3/jars/libs/soload.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6becc9c086f7be9f85881c088d5c0a8d54553a6d">
+        <dex dex="/Users/zhangsong/Downloads/直播代码2/BearLiveApp/app/build/intermediates/pre-dexed/debug/soload_a6c05c70695cb64b575fa2024daa14225dafc573.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhangsong/Downloads/直播代码2/BearLiveApp/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="/Users/zhangsong/Downloads/直播代码2/BearLiveApp/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.0.0_8bf465e6dcd84e077309ff780ac41e9fc6fca8ba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhangsong/.gradle/caches/modules-2/files-2.1/com.qiniu/happy-dns/0.2.13/a5a0b671cfa34710b904121fe8cb880c1b4b106c/happy-dns-0.2.13.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a5a0b671cfa34710b904121fe8cb880c1b4b106c">
+        <dex dex="/Users/zhangsong/Downloads/直播代码2/BearLiveApp/app/build/intermediates/pre-dexed/debug/happy-dns-0.2.13_f6f2e9a40837d073eb1b0fd883d16d1e7f9f9dca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhangsong/Downloads/直播代码2/BearLiveApp/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="/Users/zhangsong/Downloads/直播代码2/BearLiveApp/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.0.0_67f7a1bad02203e3e9e88d2d80bfba0d61fa6d5a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhangsong/.gradle/caches/modules-2/files-2.1/com.qiniu/qiniu-android-sdk/7.3.10/51c65c7877479e76d4f0115552a0a079c467efc/qiniu-android-sdk-7.3.10.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="051c65c7877479e76d4f0115552a0a079c467efc">
+        <dex dex="/Users/zhangsong/Downloads/直播代码2/BearLiveApp/app/build/intermediates/pre-dexed/debug/qiniu-android-sdk-7.3.10_0885620d6aa9e801ae2578325bdadadbb7b0b8dd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhangsong/Downloads/直播代码2/BearLiveApp/app/build/intermediates/exploded-aar/com.squareup.leakcanary/leakcanary-android-no-op/1.5.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3b813cd1a6c6fe1c61fb0e6876f7d09067ba19fb">
+        <dex dex="/Users/zhangsong/Downloads/直播代码2/BearLiveApp/app/build/intermediates/pre-dexed/debug/com.squareup.leakcanary-leakcanary-android-no-op-1.5.2_c7712c6c47f7dd75abf04c4e2976a76fb053eaef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhangsong/Downloads/直播代码2/BearLiveApp/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="/Users/zhangsong/Downloads/直播代码2/BearLiveApp/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_412f9f92edc57b33ff2cb537060c0f837d2c03d6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhangsong/Downloads/直播代码2/BearLiveApp/app/build/intermediates/exploded-aar/com.tencent.ilivesdk/ilivesdk/1.3.3/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5c6ab8db5de85448e0948fcbf354ce8bc9bc5f10">
+        <dex dex="/Users/zhangsong/Downloads/直播代码2/BearLiveApp/app/build/intermediates/pre-dexed/debug/com.tencent.ilivesdk-ilivesdk-1.3.3_3e05601fd565f6d3b3e28d625d40f3204bbad054.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhangsong/Downloads/直播代码2/BearLiveApp/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/zhangsong/Downloads/直播代码2/BearLiveApp/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_bf28601191ad18734713c20519b433a7021544d4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhangsong/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.8.1/4d060ca3190df0eda4dc13415532a12e15ca5f11/okhttp-3.8.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4d060ca3190df0eda4dc13415532a12e15ca5f11">
+        <dex dex="/Users/zhangsong/Downloads/直播代码2/BearLiveApp/app/build/intermediates/pre-dexed/debug/okhttp-3.8.1_86add9224a46c02715995b9460c155854e2f8f83.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhangsong/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.8.0/c4ba5371a29ac9b2ad6129b1d39ea38750043eff/gson-2.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c4ba5371a29ac9b2ad6129b1d39ea38750043eff">
+        <dex dex="/Users/zhangsong/Downloads/直播代码2/BearLiveApp/app/build/intermediates/pre-dexed/debug/gson-2.8.0_5b6d72c1494e09410ec4ff21fd5c1e893ddcadb6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhangsong/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4/glide-3.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="/Users/zhangsong/Downloads/直播代码2/BearLiveApp/app/build/intermediates/pre-dexed/debug/glide-3.7.0_96c90b5c3aa53c3c5f7443e55fe340e61f95b407.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhangsong/Downloads/直播代码2/BearLiveApp/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="/Users/zhangsong/Downloads/直播代码2/BearLiveApp/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.0.0_edf79267201483c49b7e14548e3b802cba1a8f44.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhangsong/Downloads/直播代码2/BearLiveApp/app/build/intermediates/exploded-aar/com.tencent.ilivesdk/ilivesdk/1.3.3/jars/libs/qavsdk.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3997434a76363b68bd17a5b1d49c367b8dc61ea4">
+        <dex dex="/Users/zhangsong/Downloads/直播代码2/BearLiveApp/app/build/intermediates/pre-dexed/debug/qavsdk_ec8cc410bad4120bca6073f516bc091ee63122a8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhangsong/Downloads/直播代码2/BearLiveApp/app/build/intermediates/exploded-aar/com.tencent.ilivesdk/ilivesdk/1.3.3/jars/libs/imsdk.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="99c9b64184ef0079a87f5d97d07f0ac833f0a98e">
+        <dex dex="/Users/zhangsong/Downloads/直播代码2/BearLiveApp/app/build/intermediates/pre-dexed/debug/imsdk_f2f0438a551ab21db1df59962ec667df93a817d6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhangsong/Downloads/直播代码2/BearLiveApp/app/build/intermediates/exploded-aar/jp.wasabeef/glide-transformations/2.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="df451c6f391e3e32022fc964ed87bd57a5869128">
+        <dex dex="/Users/zhangsong/Downloads/直播代码2/BearLiveApp/app/build/intermediates/pre-dexed/debug/jp.wasabeef-glide-transformations-2.0.1_851b42416f1e7f9df093c050ae358d14b501cde2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhangsong/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.0/support-annotations-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="/Users/zhangsong/Downloads/直播代码2/BearLiveApp/app/build/intermediates/pre-dexed/debug/support-annotations-25.0.0_05c9ece782ae026f12175f88b72ddd5ec5a20aa3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhangsong/Downloads/直播代码2/BearLiveApp/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="/Users/zhangsong/Downloads/直播代码2/BearLiveApp/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_d444e2cc9913693e0e085144f23f261a0a61c7b4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhangsong/Downloads/直播代码2/BearLiveApp/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="/Users/zhangsong/Downloads/直播代码2/BearLiveApp/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.0.0_c5ad33b06161b2108b98b3b806aa701f20da4c06.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhangsong/Downloads/直播代码2/BearLiveApp/app/build/intermediates/exploded-aar/com.tencent.ilivesdk/ilivesdk/1.3.3/jars/libs/bugly_2.4.0_imsdk_release.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dfcd0f03a806d4be369ab8381dee2681822ef35f">
+        <dex dex="/Users/zhangsong/Downloads/直播代码2/BearLiveApp/app/build/intermediates/pre-dexed/debug/bugly_2.4.0_imsdk_release_6fc04dd122388c3e14ddcbc1f8a1a182565a7e29.jar" />
+    </item>
+
+</items>

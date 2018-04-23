@@ -1,0 +1,70 @@
+[
+    {
+        "merged": "/Users/zhangsong/Downloads/直播代码2/BearLiveApp/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/Users/zhangsong/Downloads/直播代码2/BearLiveApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/zhangsong/Downloads/直播代码2/BearLiveApp/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/zhangsong/Downloads/直播代码2/BearLiveApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/zhangsong/Downloads/直播代码2/BearLiveApp/app/build/intermediates/res/merged/debug/anim/danmu_item_enter.xml",
+        "source": "/Users/zhangsong/Downloads/直播代码2/BearLiveApp/app/src/main/res/anim/danmu_item_enter.xml"
+    },
+    {
+        "merged": "/Users/zhangsong/Downloads/直播代码2/BearLiveApp/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/Users/zhangsong/Downloads/直播代码2/BearLiveApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/zhangsong/Downloads/直播代码2/BearLiveApp/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/Users/zhangsong/Downloads/直播代码2/BearLiveApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/zhangsong/Downloads/直播代码2/BearLiveApp/app/build/intermediates/res/merged/debug/anim/repeat_gift_img_view_in.xml",
+        "source": "/Users/zhangsong/Downloads/直播代码2/BearLiveApp/app/src/main/res/anim/repeat_gift_img_view_in.xml"
+    },
+    {
+        "merged": "/Users/zhangsong/Downloads/直播代码2/BearLiveApp/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/zhangsong/Downloads/直播代码2/BearLiveApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/zhangsong/Downloads/直播代码2/BearLiveApp/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/zhangsong/Downloads/直播代码2/BearLiveApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/zhangsong/Downloads/直播代码2/BearLiveApp/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/Users/zhangsong/Downloads/直播代码2/BearLiveApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/zhangsong/Downloads/直播代码2/BearLiveApp/app/build/intermediates/res/merged/debug/anim/repeat_gift_view_in.xml",
+        "source": "/Users/zhangsong/Downloads/直播代码2/BearLiveApp/app/src/main/res/anim/repeat_gift_view_in.xml"
+    },
+    {
+        "merged": "/Users/zhangsong/Downloads/直播代码2/BearLiveApp/app/build/intermediates/res/merged/debug/anim/repeat_gift_num_scale.xml",
+        "source": "/Users/zhangsong/Downloads/直播代码2/BearLiveApp/app/src/main/res/anim/repeat_gift_num_scale.xml"
+    },
+    {
+        "merged": "/Users/zhangsong/Downloads/直播代码2/BearLiveApp/app/build/intermediates/res/merged/debug/anim/vip_enter_name.xml",
+        "source": "/Users/zhangsong/Downloads/直播代码2/BearLiveApp/app/src/main/res/anim/vip_enter_name.xml"
+    },
+    {
+        "merged": "/Users/zhangsong/Downloads/直播代码2/BearLiveApp/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/Users/zhangsong/Downloads/直播代码2/BearLiveApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/zhangsong/Downloads/直播代码2/BearLiveApp/app/build/intermediates/res/merged/debug/anim/vip_enter_view.xml",
+        "source": "/Users/zhangsong/Downloads/直播代码2/BearLiveApp/app/src/main/res/anim/vip_enter_view.xml"
+    },
+    {
+        "merged": "/Users/zhangsong/Downloads/直播代码2/BearLiveApp/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/zhangsong/Downloads/直播代码2/BearLiveApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/zhangsong/Downloads/直播代码2/BearLiveApp/app/build/intermediates/res/merged/debug/anim/vip_enter_splash.xml",
+        "source": "/Users/zhangsong/Downloads/直播代码2/BearLiveApp/app/src/main/res/anim/vip_enter_splash.xml"
+    },
+    {
+        "merged": "/Users/zhangsong/Downloads/直播代码2/BearLiveApp/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/zhangsong/Downloads/直播代码2/BearLiveApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/anim/abc_grow_fade_in_from_bottom.xml"
+    }
+]
